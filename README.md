@@ -49,7 +49,7 @@
 </head>
 <body>
   <div class="card">
-    <img src="photo.jpg" alt="Прынева Арина Игоревна" class="photo">
+    <img src="IMG_1367.jpeg" alt="Прынева Арина Игоревна" class="photo">
     <h1>Прынева Арина Игоревна</h1>
     <p class="title">Руководитель департамента по взаимодействию с госорганами<br>АНО «Больше чем путешествие»</p>
     <div class="links">
